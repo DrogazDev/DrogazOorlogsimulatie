@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find \"G:/Development/Java/KingdomOSX\" -type f | grep -E \"\\\\.\\(xml|properties|yml|java\\)$\" | sort)"
+    ]
+  }
+}

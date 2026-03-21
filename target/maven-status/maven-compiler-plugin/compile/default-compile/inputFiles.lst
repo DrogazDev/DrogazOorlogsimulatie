@@ -1,3 +1,17 @@
 G:\Development\Java\KingdomOSX\src\main\java\nl\drogaz\kingdomOSX\commands\admin\Moderator.java
+G:\Development\Java\KingdomOSX\src\main\java\nl\drogaz\kingdomOSX\cosmetics\CosmeticsManager.java
+G:\Development\Java\KingdomOSX\src\main\java\nl\drogaz\kingdomOSX\database\DatabaseManager.java
+G:\Development\Java\KingdomOSX\src\main\java\nl\drogaz\kingdomOSX\events\MenuItemInteractListener.java
+G:\Development\Java\KingdomOSX\src\main\java\nl\drogaz\kingdomOSX\events\PlayerJoinListener.java
+G:\Development\Java\KingdomOSX\src\main\java\nl\drogaz\kingdomOSX\events\PlayerQuitListener.java
 G:\Development\Java\KingdomOSX\src\main\java\nl\drogaz\kingdomOSX\Main.java
+G:\Development\Java\KingdomOSX\src\main\java\nl\drogaz\kingdomOSX\miscellaneous\InputManager.java
 G:\Development\Java\KingdomOSX\src\main\java\nl\drogaz\kingdomOSX\miscellaneous\StyledComponent.java
+G:\Development\Java\KingdomOSX\src\main\java\nl\drogaz\kingdomOSX\party\Party.java
+G:\Development\Java\KingdomOSX\src\main\java\nl\drogaz\kingdomOSX\party\PartyGui.java
+G:\Development\Java\KingdomOSX\src\main\java\nl\drogaz\kingdomOSX\party\PartyManager.java
+G:\Development\Java\KingdomOSX\src\main\java\nl\drogaz\kingdomOSX\party\TeamColor.java
+G:\Development\Java\KingdomOSX\src\main\java\nl\drogaz\kingdomOSX\queue\GameMap.java
+G:\Development\Java\KingdomOSX\src\main\java\nl\drogaz\kingdomOSX\queue\PlayGui.java
+G:\Development\Java\KingdomOSX\src\main\java\nl\drogaz\kingdomOSX\queue\PvpRequest.java
+G:\Development\Java\KingdomOSX\src\main\java\nl\drogaz\kingdomOSX\queue\QueueManager.java
